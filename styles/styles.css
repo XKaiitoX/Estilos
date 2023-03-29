@@ -1,0 +1,41 @@
+/*
+Colores de mi sitio web
+primary: #3c00ff
+segundary: #0F6292
+light: #16FF00
+info: #FFED00
+*/
+
+.bg-primary{
+    background-color: #3917a7;
+}
+
+.text-light{
+    color: #000000;
+}
+
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-segundary{
+    color: #ffffff;
+    font-size: 17px;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: #dd00ffe3;
+}
+.text-white{
+    color: rgb(254, 254, 254);
+}
+.bg-segundary{
+    color: rgb(0, 13, 251);
+}
+body{
+    background-image: url(https://fondosmil.com/fondo/7687.png);
+}
